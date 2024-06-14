@@ -23,7 +23,8 @@ services by utilizing http requests via the port number specified. For more info
 ### Prerequisites
    - JAVA environment version: JAVA SE 1.8([How to change JAVA environment variable for Windows OS](https://www.codejava.net/java-core/how-to-set-java-home-environment-variable-on-windows-10))
    - Understanding of the MVC Patten for java development([Info on MVC Pattern](https://www.geeksforgeeks.org/mvc-design-pattern/))
-
+## Project Demo
+  If your interested in watching an over 10 minute video for this project demo, then here is the [link](https://drive.google.com/file/d/1-0xkSOoiiYA0XI4seIAxa_OfJNArmAik/view?usp=sharing).
 ## Learning Outcomes
  - Explored NoSQL (MongoDB) and Graph Database (Neo4j)
  - Practiced the implementation of background business logic to support REST API endpoints that provide access to read and modify data in a variety of databases
