@@ -9,7 +9,7 @@ interactions/relationships, while mongoDB was used to store a collection of song
 backend, the microservices were implemented to include a number of REST API endpoints
 which were then used to enable communication between the two backend servers via CRUD operations. Maven
 was used to compile and run these microservices, where it was then be possible to use these
-services by utilizing http requests via the port number specified.
+services by utilizing http requests via the port number specified. For more info on specific features see [here](https://github.com/Akbram98/Spotify-Microservices/blob/main/project_phase1.pdf).
 
 ## Getting Started
 
